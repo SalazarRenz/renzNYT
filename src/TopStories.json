@@ -1,0 +1,1824 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2024-09-28T03:26:18-04:00",
+    "num_results": 29,
+    "results": [
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Israeli Strikes Destroyed 4 Large Apartment Buildings in Beirut, Videos Show",
+            "abstract": "Visual evidence analyzed by The New York Times shows that nearby buildings were damaged in the attacks, which targeted Hezbollah’s leader. The extent of the destruction is not yet clear.",
+            "url": "https://www.nytimes.com/2024/09/27/world/middleeast/beirut-nasrallah-strike-apartment-destroyed.html",
+            "uri": "nyt://article/126357b6-0373-5cc2-85dc-32ae3e93c60a",
+            "byline": "By Christiaan Triebert, Devon Lum, Aric Toler, Lauren Leatherby and Bora Erden",
+            "item_type": "Article",
+            "updated_date": "2024-09-28T02:55:47-04:00",
+            "created_date": "2024-09-27T19:54:06-04:00",
+            "published_date": "2024-09-27T19:54:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [
+                "Hezbollah"
+            ],
+            "per_facet": [
+                "Nasrallah, Hassan"
+            ],
+            "geo_facet": [
+                "Beirut (Lebanon)",
+                "Lebanon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/autossell/27-vid-Beirut-strike-aftermath/27-vid-Beirut-strike-aftermath-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 796,
+                    "width": 528,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/autossell/27-vid-Beirut-strike-aftermath/27-vid-Beirut-strike-aftermath-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 352,
+                    "width": 528,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/autossell/27-vid-Beirut-strike-aftermath/27-vid-Beirut-strike-aftermath-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Who Is Hassan Nasrallah, Leader of Hezbollah?",
+            "abstract": "In 32 years in charge of Hezbollah, Mr. Nasrallah, 64, has built the Iranian-backed militia into an influential force in Lebanon and a potent adversary of Israel.",
+            "url": "https://www.nytimes.com/2024/09/27/world/middleeast/hassan-nasrallah-hezbollah-leader.html",
+            "uri": "nyt://article/ab06aea4-c8ca-5b53-bc9d-8e341f57b841",
+            "byline": "By Neil MacFarquhar",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T17:45:54-04:00",
+            "created_date": "2024-09-27T15:08:56-04:00",
+            "published_date": "2024-09-27T15:08:56-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shiite Muslims",
+                "Israel-Gaza War (2023- )"
+            ],
+            "org_facet": [
+                "Hezbollah"
+            ],
+            "per_facet": [
+                "Nasrallah, Hassan"
+            ],
+            "geo_facet": [
+                "Lebanon",
+                "Israel",
+                "Middle East"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27nasrallah-01-fjlh/27nasrallah-01-fjlh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hassan Nasrallah, the secretary general of Hezbollah, speaking on a screen in Baalbek, Lebanon, in 2018.",
+                    "copyright": "Diego Ibarra Sanchez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27nasrallah-01-fjlh/27nasrallah-01-fjlh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hassan Nasrallah, the secretary general of Hezbollah, speaking on a screen in Baalbek, Lebanon, in 2018.",
+                    "copyright": "Diego Ibarra Sanchez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27nasrallah-01-fjlh/27nasrallah-01-fjlh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hassan Nasrallah, the secretary general of Hezbollah, speaking on a screen in Baalbek, Lebanon, in 2018.",
+                    "copyright": "Diego Ibarra Sanchez for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Israel’s Military Issues More Evacuation Warnings in Southern Beirut",
+            "abstract": "The military struck targets throughout the night that it said were tied to Hezbollah.",
+            "url": "https://www.nytimes.com/2024/09/27/world/middleeast/evacuations-beirut-strikes-israel.html",
+            "uri": "nyt://article/96a609ce-fce5-5f6d-be3b-299820e18bf5",
+            "byline": "By Victoria Kim",
+            "item_type": "Article",
+            "updated_date": "2024-09-28T00:26:50-04:00",
+            "created_date": "2024-09-27T23:42:12-04:00",
+            "published_date": "2024-09-27T23:42:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Defense and Military Forces"
+            ],
+            "org_facet": [
+                "Hezbollah"
+            ],
+            "per_facet": [
+                "Nasrallah, Hassan"
+            ],
+            "geo_facet": [
+                "Beirut (Lebanon)",
+                "Israel",
+                "Lebanon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/10/27/multimedia/27mideast-crisis-evacuations-jlgk/27mideast-crisis-evacuations-jlgk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Smoke rising in neighborhoods to the south of Beirut after Israeli airstrikes overnight Saturday.",
+                    "copyright": "Mohamed Azakir/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/10/27/multimedia/27mideast-crisis-evacuations-jlgk/27mideast-crisis-evacuations-jlgk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Smoke rising in neighborhoods to the south of Beirut after Israeli airstrikes overnight Saturday.",
+                    "copyright": "Mohamed Azakir/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/10/27/multimedia/27mideast-crisis-evacuations-jlgk/27mideast-crisis-evacuations-jlgk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Smoke rising in neighborhoods to the south of Beirut after Israeli airstrikes overnight Saturday.",
+                    "copyright": "Mohamed Azakir/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Amid Lebanon Strike, Defiant Netanyahu Declares Israel Is ‘Winning’",
+            "abstract": "The Israeli prime minister castigated Israel’s critics and the United Nations itself during his visit to New York for the U.N. General Assembly.",
+            "url": "https://www.nytimes.com/2024/09/27/us/politics/netanyahu-israel-un.html",
+            "uri": "nyt://article/62bd7b89-4559-5d93-b8fc-51349d1c6865",
+            "byline": "By Michael Crowley",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T21:05:44-04:00",
+            "created_date": "2024-09-27T20:45:03-04:00",
+            "published_date": "2024-09-27T20:45:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "United States International Relations",
+                "Terrorism",
+                "Iran-Israel Proxy Conflict"
+            ],
+            "org_facet": [
+                "General Assembly (UN)",
+                "Hezbollah",
+                "Hamas"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Blinken, Antony J",
+                "Nasrallah, Hassan",
+                "Netanyahu, Benjamin"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Lebanon",
+                "Israel",
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-netanyahu-hczj/27dc-netanyahu-hczj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Netanyahu addressed the 79th session of the United Nations General Assembly Friday morning.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-netanyahu-hczj/27dc-netanyahu-hczj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Netanyahu addressed the 79th session of the United Nations General Assembly Friday morning.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-netanyahu-hczj/27dc-netanyahu-hczj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Netanyahu addressed the 79th session of the United Nations General Assembly Friday morning.",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Israel’s New Campaign Against Hezbollah Started With Raid in Syria",
+            "abstract": "An attack on a secret weapons lab was one of the most daring Israeli operations against the Iranian proxy group in years, covert in name only.",
+            "url": "https://www.nytimes.com/2024/09/27/us/politics/israel-hezbollah-syria.html",
+            "uri": "nyt://article/0c49f92a-6c2b-55f3-9c27-fd76e2b245d1",
+            "byline": "By Helene Cooper, Julian E. Barnes and Ronen Bergman",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T12:35:48-04:00",
+            "created_date": "2024-09-27T11:36:46-04:00",
+            "published_date": "2024-09-27T11:36:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Iran-Israel Proxy Conflict",
+                "Defense and Military Forces",
+                "Missiles and Missile Defense Systems"
+            ],
+            "org_facet": [
+                "Hezbollah"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel",
+                "Syria",
+                "Lebanon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20dc-commandos-qchb/20dc-commandos-qchb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The aftermath of Israeli strikes on Masyaf, Syria, this month. The area is only about 30 miles from the Lebanese border, which is why, Israeli and American officials say, Hezbollah manufactures weapons there instead of in Iran.",
+                    "copyright": "Louai Beshara/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20dc-commandos-qchb/20dc-commandos-qchb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The aftermath of Israeli strikes on Masyaf, Syria, this month. The area is only about 30 miles from the Lebanese border, which is why, Israeli and American officials say, Hezbollah manufactures weapons there instead of in Iran.",
+                    "copyright": "Louai Beshara/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20dc-commandos-qchb/20dc-commandos-qchb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The aftermath of Israeli strikes on Masyaf, Syria, this month. The area is only about 30 miles from the Lebanese border, which is why, Israeli and American officials say, Hezbollah manufactures weapons there instead of in Iran.",
+                    "copyright": "Louai Beshara/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "weather",
+            "subsection": "",
+            "title": "Helene Has Killed at Least 42 People in 5 States",
+            "abstract": "Officials in the Southeast said the toll was likely to rise.",
+            "url": "https://www.nytimes.com/2024/09/27/weather/helene-deaths.html",
+            "uri": "nyt://article/37b1d60b-cc56-5750-a51f-3e0ad1e4592e",
+            "byline": "By Jacey Fortin and Alessandro Marazzi Sassoon",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T22:19:07-04:00",
+            "created_date": "2024-09-27T11:38:33-04:00",
+            "published_date": "2024-09-27T11:38:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricane Helene (2024)",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Florida",
+                "Georgia",
+                "North Carolina"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27hurricane-helene-deaths-czmk/27hurricane-helene-deaths-czmk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Multiple deaths have been caused by the hurricane.",
+                    "copyright": "Cristobal Herrera-Ulashkevich/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27hurricane-helene-deaths-czmk/27hurricane-helene-deaths-czmk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Multiple deaths have been caused by the hurricane.",
+                    "copyright": "Cristobal Herrera-Ulashkevich/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27hurricane-helene-deaths-czmk/27hurricane-helene-deaths-czmk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Multiple deaths have been caused by the hurricane.",
+                    "copyright": "Cristobal Herrera-Ulashkevich/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "weather",
+            "subsection": "",
+            "title": "Tennessee Dam Near Failure After Heavy Rain From Helene",
+            "abstract": "The authorities were evacuating people downstream from the Nolichucky Dam, warning that a breach could cause deadly flooding.",
+            "url": "https://www.nytimes.com/2024/09/28/weather/helene-tennessee-nolichucky-dam-evacuation.html",
+            "uri": "nyt://article/9c9357e4-4c9f-557a-bc9b-b43fd8fe0fa2",
+            "byline": "By John Yoon",
+            "item_type": "Article",
+            "updated_date": "2024-09-28T02:24:12-04:00",
+            "created_date": "2024-09-28T01:20:16-04:00",
+            "published_date": "2024-09-28T01:20:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Evacuations and Evacuees",
+                "Levees and Dams",
+                "Floods",
+                "Rain",
+                "Hurricane Helene (2024)"
+            ],
+            "org_facet": [
+                "Tennessee Valley Authority"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Tennessee"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/10/27/multimedia/27hurricane-helene-tennessee-dam-hpbc/27hurricane-helene-tennessee-dam-hpbc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partly submerged vehicle in high water from the Pigeon River near Newport, Tenn., on Friday.",
+                    "copyright": "Wade Payne/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/10/27/multimedia/27hurricane-helene-tennessee-dam-hpbc/27hurricane-helene-tennessee-dam-hpbc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partly submerged vehicle in high water from the Pigeon River near Newport, Tenn., on Friday.",
+                    "copyright": "Wade Payne/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/10/27/multimedia/27hurricane-helene-tennessee-dam-hpbc/27hurricane-helene-tennessee-dam-hpbc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partly submerged vehicle in high water from the Pigeon River near Newport, Tenn., on Friday.",
+                    "copyright": "Wade Payne/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Scenes From Florida as Hurricane Helene Roared Through",
+            "abstract": "Helene made landfall on Florida’s Gulf Coast late Thursday, one year after the area was hit by Hurricane Idalia.",
+            "url": "https://www.nytimes.com/2024/09/26/us/hurricane-helene-florida-photos-videos.html",
+            "uri": "nyt://article/20cd2855-d9f4-5f67-a2f5-fdbaa40402b7",
+            "byline": "By The New York Times",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T19:27:21-04:00",
+            "created_date": "2024-09-26T17:36:40-04:00",
+            "published_date": "2024-09-26T17:36:40-04:00",
+            "material_type_facet": "",
+            "kicker": "In Photos and Video",
+            "des_facet": [
+                "Hurricanes and Tropical Storms",
+                "vis-photo",
+                "vis-video"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Florida"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/27vid-helene-drone-damage-22441-cover/27vid-helene-drone-damage-22441-cover-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1080,
+                    "width": 1620,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Paul Ratje for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/27vid-helene-drone-damage-22441-cover/27vid-helene-drone-damage-22441-cover-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Paul Ratje for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/27vid-helene-drone-damage-22441-cover/27vid-helene-drone-damage-22441-cover-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Paul Ratje for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Harris, at the Border, Shows Democrats’ Hard-Line Evolution on Immigration",
+            "abstract": "Vowing to carry on President Biden’s crackdown on asylum and to impose order on the southern border, the vice president demonstrated how much the politics of immigration have changed.",
+            "url": "https://www.nytimes.com/2024/09/27/us/politics/harris-border-immigration-arizona.html",
+            "uri": "nyt://article/2496b531-94f5-55be-94f7-b8ab14c64dac",
+            "byline": "By Nicholas Nehamas, Hamed Aleaziz and Reid J. Epstein",
+            "item_type": "Article",
+            "updated_date": "2024-09-28T00:01:16-04:00",
+            "created_date": "2024-09-27T21:42:38-04:00",
+            "published_date": "2024-09-27T21:42:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Immigration and Emigration",
+                "Illegal Immigration",
+                "Presidential Election of 2024",
+                "United States Politics and Government",
+                "Border Barriers"
+            ],
+            "org_facet": [
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Harris, Kamala D",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Arizona",
+                "Douglas (Ariz)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27election-live-harris-arizona2-gjvq/27election-live-harris-arizona2-gjvq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vice President Kamala Harris in Douglas, Ariz., on Friday.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27election-live-harris-arizona2-gjvq/27election-live-harris-arizona2-gjvq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vice President Kamala Harris in Douglas, Ariz., on Friday.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27election-live-harris-arizona2-gjvq/27election-live-harris-arizona2-gjvq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vice President Kamala Harris in Douglas, Ariz., on Friday.",
+                    "copyright": "Erin Schaff/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "‘Quiet Place’ in Pennsylvania Is Thrust Into Loud Immigration Debate",
+            "abstract": "Former President Donald J. Trump turned his sights on Charleroi, Pa., where many Haitians have settled in recent years, and he fueled a fire that was already smoldering.",
+            "url": "https://www.nytimes.com/2024/09/27/us/charleroi-pennsylvania-haitian-migrants.html",
+            "uri": "nyt://article/f8afd67b-3f5f-5460-ab64-3023149a5066",
+            "byline": "By Nicholas Bogel-Burroughs",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T15:48:28-04:00",
+            "created_date": "2024-09-27T14:34:12-04:00",
+            "published_date": "2024-09-27T14:34:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Immigration and Emigration",
+                "Haitian-Americans"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Pennsylvania",
+                "Charleroi (PA)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27nat-charleroi-haitians-lgmp/27nat-charleroi-haitians-lgmp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Charleroi, Pa., along the Monongahela River, was once a hub of glassmaking, but manufacturing work has declined in the town.",
+                    "copyright": "Michael Swensen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27nat-charleroi-haitians-lgmp/27nat-charleroi-haitians-lgmp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Charleroi, Pa., along the Monongahela River, was once a hub of glassmaking, but manufacturing work has declined in the town.",
+                    "copyright": "Michael Swensen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27nat-charleroi-haitians-lgmp/27nat-charleroi-haitians-lgmp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Charleroi, Pa., along the Monongahela River, was once a hub of glassmaking, but manufacturing work has declined in the town.",
+                    "copyright": "Michael Swensen for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Trump Suggests Putin Wants to End War, as Zelensky Looks On",
+            "abstract": "“I’m sure President Putin wants it to stop,” Donald Trump said of the Russia-Ukraine war on Friday. President Volodymyr Zelensky of Ukraine stressed that the war shouldn’t have been started.",
+            "url": "https://www.nytimes.com/2024/09/27/us/politics/trump-zelensky-putin-war.html",
+            "uri": "nyt://article/2d465407-0143-5533-9043-691671fbed9f",
+            "byline": "By Jonathan Swan, Simon J. Levien, Constant Méheut and David E. Sanger",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T19:44:44-04:00",
+            "created_date": "2024-09-27T16:39:42-04:00",
+            "published_date": "2024-09-27T16:39:42-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "Russian Invasion of Ukraine (2022)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27election-live-trump-zelensky-ckmq/27election-live-trump-zelensky-ckmq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1361,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump met with President Volodymyr Zelensky of Ukraine at Trump Tower in New York on Friday.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27election-live-trump-zelensky-ckmq/27election-live-trump-zelensky-ckmq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump met with President Volodymyr Zelensky of Ukraine at Trump Tower in New York on Friday.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27election-live-trump-zelensky-ckmq/27election-live-trump-zelensky-ckmq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump met with President Volodymyr Zelensky of Ukraine at Trump Tower in New York on Friday.",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Candidate for North Carolina Governor Treated for Burns, Campaign Says",
+            "abstract": "Lt. Gov. Mark Robinson, the embattled Republican nominee for governor of North Carolina, was treated after attending a campaign event in Mount Airy, N.C.",
+            "url": "https://www.nytimes.com/2024/09/27/us/politics/mark-robinson-north-carolina-hospitalized-burns.html",
+            "uri": "nyt://article/63271585-0044-50e4-b59e-698992cf7800",
+            "byline": "By Eduardo Medina",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T23:59:11-04:00",
+            "created_date": "2024-09-27T23:21:32-04:00",
+            "published_date": "2024-09-27T23:21:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Elections, Governors",
+                "Presidential Election of 2024"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Robinson, Mark K (1968- )",
+                "Stein, Josh (1966- )"
+            ],
+            "geo_facet": [
+                "Mount Airy (NC)",
+                "North Carolina"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27election-live-robinson-1-gzwc/27election-live-robinson-1-gzwc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lt. Gov. Mark Robinson of North Carolina speaking at a Trump rally in Asheville, N.C., last month.",
+                    "copyright": "Matt Kelley/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27election-live-robinson-1-gzwc/27election-live-robinson-1-gzwc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lt. Gov. Mark Robinson of North Carolina speaking at a Trump rally in Asheville, N.C., last month.",
+                    "copyright": "Matt Kelley/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27election-live-robinson-1-gzwc/27election-live-robinson-1-gzwc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lt. Gov. Mark Robinson of North Carolina speaking at a Trump rally in Asheville, N.C., last month.",
+                    "copyright": "Matt Kelley/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Mayor Adams Pleads Not Guilty as New Yorkers Contemplate What Comes Next",
+            "abstract": "Mayor Eric Adams, muted but defiant, said he was innocent of bribery and other charges, and his lawyer attacked the prosecution’s case.",
+            "url": "https://www.nytimes.com/2024/09/27/nyregion/eric-adams-arraignment-bribery-fraud.html",
+            "uri": "nyt://article/13928072-97b4-5483-aa50-1cac078fe636",
+            "byline": "By Dana Rubinstein, William K. Rashbaum and Michael Wilson",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T20:54:01-04:00",
+            "created_date": "2024-09-27T16:29:50-04:00",
+            "published_date": "2024-09-27T16:29:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Eric Adams Federal Corruption Case (24 CR 556)",
+                "Corruption (Institutional)",
+                "Bribery and Kickbacks",
+                "United States Politics and Government",
+                "Campaign Finance",
+                "Gifts to Public Officials"
+            ],
+            "org_facet": [
+                "Fire Department (NYC)",
+                "Turkish Airlines"
+            ],
+            "per_facet": [
+                "Abbasova, Rana",
+                "Adams, Eric L",
+                "Lewis-Martin, Ingrid P",
+                "Nadler, Jerrold",
+                "Sharpton, Al"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27ny-adams-01-zckq/27ny-adams-01-zckq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mayor Eric Adams left a federal courthouse in Manhattan after pleading not guilty to graft charges.",
+                    "copyright": "Todd Heisler/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27ny-adams-01-zckq/27ny-adams-01-zckq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mayor Eric Adams left a federal courthouse in Manhattan after pleading not guilty to graft charges.",
+                    "copyright": "Todd Heisler/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27ny-adams-01-zckq/27ny-adams-01-zckq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mayor Eric Adams left a federal courthouse in Manhattan after pleading not guilty to graft charges.",
+                    "copyright": "Todd Heisler/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Agents Seize Phones From Adams’s Top Adviser and Subpoena Her",
+            "abstract": "Ingrid Lewis-Martin has been close to Mayor Eric Adams for decades, and has cultivated a reputation as a ruthless political actor.",
+            "url": "https://www.nytimes.com/2024/09/27/nyregion/ingrid-lewis-martin-phone-searched-adams.html",
+            "uri": "nyt://article/5d1b816b-6be5-541e-8234-f0ca7a36b07c",
+            "byline": "By William K. Rashbaum, Dana Rubinstein and Jeffery C. Mays",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T19:13:44-04:00",
+            "created_date": "2024-09-27T15:54:12-04:00",
+            "published_date": "2024-09-27T15:54:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Eric Adams Federal Corruption Case (24 CR 556)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Adams, Eric L",
+                "Lewis-Martin, Ingrid P"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27adams-arraignment-lewis-martin-cfwt/27adams-arraignment-lewis-martin-cfwt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ingrid Lewis-Martin has long been one of Mayor Eric Adams’s closest aides, but she has been less visible at City Hall in recent weeks.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27adams-arraignment-lewis-martin-cfwt/27adams-arraignment-lewis-martin-cfwt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ingrid Lewis-Martin has long been one of Mayor Eric Adams’s closest aides, but she has been less visible at City Hall in recent weeks.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27adams-arraignment-lewis-martin-cfwt/27adams-arraignment-lewis-martin-cfwt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ingrid Lewis-Martin has long been one of Mayor Eric Adams’s closest aides, but she has been less visible at City Hall in recent weeks.",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Laborer’s Death Brings to Light Italy’s Conflicted Relationship With Migrants",
+            "abstract": "Italy, an aging country, badly needs migrant labor and immigration, but the government has admitted that the pathways for legal entry are rife with abuse.",
+            "url": "https://www.nytimes.com/2024/09/28/world/europe/italy-migrant-labor.html",
+            "uri": "nyt://article/873ee74e-5ad0-5676-958a-f15d5a62c20d",
+            "byline": "By Emma Bubola",
+            "item_type": "Article",
+            "updated_date": "2024-09-28T00:01:17-04:00",
+            "created_date": "2024-09-28T00:01:17-04:00",
+            "published_date": "2024-09-28T00:01:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Labor and Jobs",
+                "Foreign Workers",
+                "Migrant Labor (Agriculture)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Meloni, Giorgia (1977- )",
+                "Mussolini, Benito"
+            ],
+            "geo_facet": [
+                "Italy"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/08/21/multimedia/21italy-migration-labour-01-mwcf/21italy-migration-labour-01-mwcf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of the Indian community and of unions of agriculture workers in June protesting the death of Satnam Singh in Latina, near Rome.",
+                    "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/08/21/multimedia/21italy-migration-labour-01-mwcf/21italy-migration-labour-01-mwcf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of the Indian community and of unions of agriculture workers in June protesting the death of Satnam Singh in Latina, near Rome.",
+                    "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/08/21/multimedia/21italy-migration-labour-01-mwcf/21italy-migration-labour-01-mwcf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of the Indian community and of unions of agriculture workers in June protesting the death of Satnam Singh in Latina, near Rome.",
+                    "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "Maggie Smith, Grande Dame of Stage and Screen, Dies at 89",
+            "abstract": "She earned an extraordinary array of awards, from Oscars to Emmys to a Tony, but she could still go almost everywhere unrecognized. Then came “Downton Abbey.”",
+            "url": "https://www.nytimes.com/2024/09/27/arts/maggie-smith-dead.html",
+            "uri": "nyt://article/b61d2b89-e446-5879-ba23-468a7c4eef62",
+            "byline": "By Anita Gates and Robert Berkvist",
+            "item_type": "Article",
+            "updated_date": "2024-09-28T01:14:53-04:00",
+            "created_date": "2024-09-27T09:39:37-04:00",
+            "published_date": "2024-09-27T09:39:37-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Actors and Actresses",
+                "Theater",
+                "Movies",
+                "Television",
+                "Academy Awards (Oscars)",
+                "Emmy Awards",
+                "Harry Potter (Fictional Character)",
+                "Tony Awards (Theater Awards)",
+                "Golden Globes (Awards)",
+                "Downton Abbey (TV Program)",
+                "Travels With My Aunt (Movie)",
+                "The Prime of Miss Jean Brodie (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Smith, Maggie"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/05/25/obituaries/00Smith-03/00Smith-03-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1622,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As Violet Crawley, the acid-tongued dowager countess on “Downton Abbey,” Ms. Smith was the show’s breakout star from the beginning.",
+                    "copyright": "Nick Briggs/PBS, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/05/25/obituaries/00Smith-03/00Smith-03-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As Violet Crawley, the acid-tongued dowager countess on “Downton Abbey,” Ms. Smith was the show’s breakout star from the beginning.",
+                    "copyright": "Nick Briggs/PBS, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/05/25/obituaries/00Smith-03/00Smith-03-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As Violet Crawley, the acid-tongued dowager countess on “Downton Abbey,” Ms. Smith was the show’s breakout star from the beginning.",
+                    "copyright": "Nick Briggs/PBS, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Maggie Smith Was Imperious in the Most Delightful Way",
+            "abstract": "Throughout her career and on “Downton Abbey,” she perfected the role of the commanding Englishwoman with an arrow-sharp wit.",
+            "url": "https://www.nytimes.com/2024/09/27/movies/maggie-smith-appraisal.html",
+            "uri": "nyt://article/43da9107-27ae-58e0-9cb0-037417df7b4a",
+            "byline": "By Roslyn Sulcas",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T16:17:30-04:00",
+            "created_date": "2024-09-27T16:17:30-04:00",
+            "published_date": "2024-09-27T16:17:30-04:00",
+            "material_type_facet": "",
+            "kicker": "An appraisal",
+            "des_facet": [
+                "Actors and Actresses",
+                "Movies",
+                "Downton Abbey (Movie)",
+                "The Lady in the Van (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Smith, Maggie"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/arts/27smith-appraisal/27smith-appraisal--superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Maggie Smith in 1963. Be it as an aristocrat or a schoolteacher, she commanded the screen.",
+                    "copyright": "Hulton-Deutsch Collection/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/arts/27smith-appraisal/27smith-appraisal--threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Maggie Smith in 1963. Be it as an aristocrat or a schoolteacher, she commanded the screen.",
+                    "copyright": "Hulton-Deutsch Collection/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/arts/27smith-appraisal/27smith-appraisal--thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Maggie Smith in 1963. Be it as an aristocrat or a schoolteacher, she commanded the screen.",
+                    "copyright": "Hulton-Deutsch Collection/Corbis, via Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "dining",
+            "subsection": "",
+            "title": "Maggie Smith’s Influence Rippled to the Cocktail Hour",
+            "abstract": "In 2011, a New York bartender paid tribute to the actor with a sly tweak to a pre-Prohibition cocktail.",
+            "url": "https://www.nytimes.com/2024/09/27/dining/maggie-smith-cocktail-between-the-sheets.html",
+            "uri": "nyt://article/e7cac087-3485-5fbf-bbc6-e11a67476f3d",
+            "byline": "By Pete Wells",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T18:01:59-04:00",
+            "created_date": "2024-09-27T18:01:59-04:00",
+            "published_date": "2024-09-27T18:01:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cocktails and Mixed Drinks",
+                "Actors and Actresses"
+            ],
+            "org_facet": [
+                "Death \u0026 Company (Manhattan, NY, Bar)"
+            ],
+            "per_facet": [
+                "Smith, Maggie"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27Maggie-Smith-Cocktail/MAGGIESMITHREX-qmcw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Maggie Smith",
+                    "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27Maggie-Smith-Cocktail/MAGGIESMITHREX-qmcw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Maggie Smith",
+                    "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27Maggie-Smith-Cocktail/MAGGIESMITHREX-qmcw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Maggie Smith",
+                    "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "OpenAI Is Growing Fast and Burning Through Piles of Money",
+            "abstract": "As the company looks for more outside investors, documents reviewed by The New York Times show consumer fascination with ChatGPT and a serious need for more cash.",
+            "url": "https://www.nytimes.com/2024/09/27/technology/openai-chatgpt-investors-funding.html",
+            "uri": "nyt://article/2eefbaa0-b0f6-5940-8bc3-f275f5ee45b9",
+            "byline": "By Mike Isaac and Erin Griffith",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T19:06:43-04:00",
+            "created_date": "2024-09-27T16:53:49-04:00",
+            "published_date": "2024-09-27T16:53:49-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Venture Capital",
+                "ChatGPT",
+                "Start-ups",
+                "Prices (Fares, Fees and Rates)"
+            ],
+            "org_facet": [
+                "OpenAI Labs",
+                "Microsoft Corp",
+                "Thrive Capital"
+            ],
+            "per_facet": [
+                "Altman, Samuel H"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27openai-finance-hlvz/27openai-finance-hlvz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The chief executive of OpenAI, Sam Altman, center, is pitching an investment round that could value the start-up at $150 billion.",
+                    "copyright": "Bryan R. Smith/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27openai-finance-hlvz/27openai-finance-hlvz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The chief executive of OpenAI, Sam Altman, center, is pitching an investment round that could value the start-up at $150 billion.",
+                    "copyright": "Bryan R. Smith/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27openai-finance-hlvz/27openai-finance-hlvz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The chief executive of OpenAI, Sam Altman, center, is pitching an investment round that could value the start-up at $150 billion.",
+                    "copyright": "Bryan R. Smith/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "upshot",
+            "subsection": "",
+            "title": "10-Minute Challenge: Hiroshige’s ‘Sudden Rain’",
+            "abstract": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
+            "url": "https://www.nytimes.com/interactive/2024/09/26/upshot/ten-minute-challenge-bridge.html",
+            "uri": "nyt://interactive/dc52017d-62da-51d7-b419-1e31ccd39e8d",
+            "byline": "By Larry Buchanan, Nico Chilla and Francesca Paris",
+            "item_type": "Interactive",
+            "updated_date": "2024-09-27T09:39:52-04:00",
+            "created_date": "2024-09-26T18:19:13-04:00",
+            "published_date": "2024-09-26T18:19:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Art",
+                "Content Type: Quiz",
+                "internal-disable-fab"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Hiroshige"
+            ],
+            "geo_facet": [
+                "Japan",
+                "Tokyo (Japan)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/upshot/ten-minute-challenge-bridge-1727388948043/ten-minute-challenge-bridge-1727388948043-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1548,
+                    "width": 1075,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/upshot/ten-minute-challenge-bridge-1727388948043/ten-minute-challenge-bridge-1727388948043-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/upshot/ten-minute-challenge-bridge-1727388948043/ten-minute-challenge-bridge-1727388948043-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "I’ve Lived With Hurricanes for Years. The Decisions Keep Getting Harder.",
+            "abstract": "More than the sheer repetition of extreme weather, the stakes have grown — for our homes, our communities and our lives.",
+            "url": "https://www.nytimes.com/2024/09/27/opinion/hurricane-helene-damage-florida-georgia-south-carolina.html",
+            "uri": "nyt://article/edb8ad76-1de7-57b3-9111-ed5ca8f9c9ec",
+            "byline": "By Jeff VanderMeer",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T20:35:40-04:00",
+            "created_date": "2024-09-27T11:46:29-04:00",
+            "published_date": "2024-09-27T11:46:29-04:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Weather",
+                "Psychology and Psychologists",
+                "Evacuations and Evacuees",
+                "Hurricanes and Tropical Storms",
+                "Hurricane Michael (2018)",
+                "Coastal Areas",
+                "Global Warming",
+                "Floods",
+                "Disasters and Emergencies",
+                "Homeowners Insurance"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Florida",
+                "Greenville (SC)",
+                "Tallahassee (Fla)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/29/multimedia/27vandermeer-kjvl/27vandermeer-kjvl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Floodwaters inundate the main street in Tarpon Springs, Fla., on Sept. 27 after Hurricane Helene made landfall.",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/29/multimedia/27vandermeer-kjvl/27vandermeer-kjvl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Floodwaters inundate the main street in Tarpon Springs, Fla., on Sept. 27 after Hurricane Helene made landfall.",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/29/multimedia/27vandermeer-kjvl/27vandermeer-kjvl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Floodwaters inundate the main street in Tarpon Springs, Fla., on Sept. 27 after Hurricane Helene made landfall.",
+                    "copyright": "Joe Raedle/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "They Call Themselves the ‘Strange Sorority.’ Trump Was Their Initiation.",
+            "abstract": "The world has moved on. They haven’t.",
+            "url": "https://www.nytimes.com/2024/09/27/opinion/trump-accusers-stoynoff.html",
+            "uri": "nyt://article/471c6978-d2ab-57ec-9909-58941347bd26",
+            "byline": "By Jessica Bennett",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T20:42:33-04:00",
+            "created_date": "2024-09-27T05:02:13-04:00",
+            "published_date": "2024-09-27T05:02:13-04:00",
+            "material_type_facet": "",
+            "kicker": "Jessica Bennett",
+            "des_facet": [
+                "Presidential Election of 2024",
+                "Sexual Harassment",
+                "Sex Crimes"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Carroll, E Jean",
+                "Conway, George T III",
+                "Stoynoff, Natasha",
+                "Weinstein, Harvey",
+                "Dorris, Amy",
+                "Johnson, Alva",
+                "Crooks, Rachel (1983- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/opinion/27bennett-image/27bennett-image-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/opinion/27bennett-image/27bennett-image-threeByTwoSmallAt2X-v4.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/opinion/27bennett-image/27bennett-image-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "The Most Galling Part of the Whole Eric Adams Affair",
+            "abstract": "With all its talent, how did the city end up with a mayor accused of being an incessant petty grifter?",
+            "url": "https://www.nytimes.com/2024/09/27/opinion/new-york-deserves-better-than-this.html",
+            "uri": "nyt://article/3f2b939b-d099-5bdd-89fe-9ccaa08c0927",
+            "byline": "By Nicole Gelinas",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T13:12:37-04:00",
+            "created_date": "2024-09-27T10:31:48-04:00",
+            "published_date": "2024-09-27T10:31:48-04:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Eric Adams Federal Corruption Case (24 CR 556)",
+                "Elections, Mayors",
+                "Bribery and Kickbacks",
+                "Gifts to Public Officials"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Adams, Eric L"
+            ],
+            "geo_facet": [
+                "New York City",
+                "Turkey"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26haberman-ftjv/26haberman-ftjv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Seth Wenig/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26haberman-ftjv/26haberman-ftjv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Seth Wenig/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26haberman-ftjv/26haberman-ftjv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Seth Wenig/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "The Possible Meanings of a Masculine Religious Revival",
+            "abstract": "",
+            "url": "https://www.nytimes.com/2024/09/27/opinion/religion-gender-divide.html",
+            "uri": "nyt://article/ea45c7cd-30c5-5da5-b706-3c251b7b5849",
+            "byline": "By Ross Douthat",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T17:35:27-04:00",
+            "created_date": "2024-09-27T15:00:03-04:00",
+            "published_date": "2024-09-27T15:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "Ross Douthat",
+            "des_facet": [
+                "Religion and Belief",
+                "Generation Z",
+                "Men and Boys",
+                "Christians and Christianity",
+                "Gender",
+                "Women and Girls",
+                "Millennial Generation"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Waco (Tex)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/opinion/27douthat-newsletter-image/27douthat-newsletter-image-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2047,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alain Pilon"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/opinion/27douthat-newsletter-image/27douthat-newsletter-image-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 399,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alain Pilon"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/opinion/27douthat-newsletter-image/27douthat-newsletter-image-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alain Pilon"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "The Sudden Appeal of the Bulldog Spirit",
+            "abstract": "Such is the hold the Premier League has on the popular consciousness that enticing a player away from it is seen as a coup.",
+            "url": "https://www.nytimes.com/2024/09/27/world/europe/atletico-real-madrid-derby.html",
+            "uri": "nyt://article/b714e9e9-d536-50d6-bcd5-1c8c009b6bfa",
+            "byline": "By Rory Smith",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T12:08:14-04:00",
+            "created_date": "2024-09-27T10:35:04-04:00",
+            "published_date": "2024-09-27T10:35:04-04:00",
+            "material_type_facet": "",
+            "kicker": "The On Soccer Newsletter",
+            "des_facet": [
+                "Soccer"
+            ],
+            "org_facet": [
+                "Atletico Madrid (Soccer Team)",
+                "Real Madrid (Soccer Team)",
+                "English Premier League"
+            ],
+            "per_facet": [
+                "Bellingham, Jude (2003- )",
+                "Gallagher, Conor (2000- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27rory-gallagher-vzcg/27rory-gallagher-vzcg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1789,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Atlético Madrid’s new English prize, Conor Gallagher.",
+                    "copyright": "Violeta Santos Moura/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27rory-gallagher-vzcg/27rory-gallagher-vzcg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Atlético Madrid’s new English prize, Conor Gallagher.",
+                    "copyright": "Violeta Santos Moura/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27rory-gallagher-vzcg/27rory-gallagher-vzcg-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Atlético Madrid’s new English prize, Conor Gallagher.",
+                    "copyright": "Violeta Santos Moura/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Death Penalty May Be Off Table for 9/11 Suspect No Matter How Case Unfolds",
+            "abstract": "The government is trying to cancel a plea deal for Khalid Shaikh Mohammed, accused of masterminding the attacks. But a clause in the agreement may stop prosecutors from reinstating a capital case.",
+            "url": "https://www.nytimes.com/2024/09/27/us/politics/sept-11-death-penalty-ksm.html",
+            "uri": "nyt://article/1582bec9-2b68-52e2-86fc-34bf5c228ce0",
+            "byline": "By Carol Rosenberg",
+            "item_type": "Article",
+            "updated_date": "2024-09-28T02:25:53-04:00",
+            "created_date": "2024-09-27T18:57:52-04:00",
+            "published_date": "2024-09-27T18:57:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "September 11 (2001)",
+                "Capital Punishment",
+                "Detainees",
+                "Terrorism",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Defense Department"
+            ],
+            "per_facet": [
+                "Mohammed, Khalid Shaikh",
+                "Escallier, Susan K",
+                "Austin, Lloyd J III",
+                "Attash, Walid Muhammad Salih bin",
+                "Hawsawi, Mustafa Ahmed al-"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-gitmo-qmvh/27dc-gitmo-qmvh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Khalid Shaikh Mohammed’s 20-page plea agreement is under seal at the court in Guantánamo Bay, Cuba.",
+                    "copyright": "Marisa Schwartz Taylor/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-gitmo-qmvh/27dc-gitmo-qmvh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Khalid Shaikh Mohammed’s 20-page plea agreement is under seal at the court in Guantánamo Bay, Cuba.",
+                    "copyright": "Marisa Schwartz Taylor/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-gitmo-qmvh/27dc-gitmo-qmvh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Khalid Shaikh Mohammed’s 20-page plea agreement is under seal at the court in Guantánamo Bay, Cuba.",
+                    "copyright": "Marisa Schwartz Taylor/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Titan Sub Tragedy: Coast Guard Hearings Reveal New Insights",
+            "abstract": "Contrary to public reports last year, the passengers probably had no idea that the vessel was about to implode.",
+            "url": "https://www.nytimes.com/2024/09/27/science/titan-submersible-oceangate-hearing.html",
+            "uri": "nyt://article/b8ca6ddf-13d4-5d49-9239-0c81ff5bd256",
+            "byline": "By William J. Broad",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T16:47:52-04:00",
+            "created_date": "2024-09-27T16:47:52-04:00",
+            "published_date": "2024-09-27T16:47:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Submarines and Submersibles",
+                "your-feed-science",
+                "Maritime Accidents and Safety",
+                "Deaths (Fatalities)",
+                "Diving and Divers"
+            ],
+            "org_facet": [
+                "OceanGate Expeditions (Argus Expeditions Ltd)",
+                "United States Coast Guard"
+            ],
+            "per_facet": [
+                "Rush, Stockton (1962-2023)",
+                "Nargeolet, Paul-Henri (1946-2023)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27titan-roundup-01-bkpg/27titan-roundup-01-bkpg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Coast Guard released footage from a remotely operated vehicle that it said showed debris of the Titan submersible on the sea floor.",
+                    "copyright": "U.S. Coast Guard, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27titan-roundup-01-bkpg/27titan-roundup-01-bkpg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Coast Guard released footage from a remotely operated vehicle that it said showed debris of the Titan submersible on the sea floor.",
+                    "copyright": "U.S. Coast Guard, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27titan-roundup-01-bkpg/27titan-roundup-01-bkpg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Coast Guard released footage from a remotely operated vehicle that it said showed debris of the Titan submersible on the sea floor.",
+                    "copyright": "U.S. Coast Guard, via Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Democrats See a Chance to Beat Trump on Judicial Confirmations",
+            "abstract": "They hope to use the time after the election to approve judges, but Senator Durbin says their aggressive efforts have already produced a remarkable demographic shift on the federal courts.",
+            "url": "https://www.nytimes.com/2024/09/27/us/politics/trump-democrats-judges.html",
+            "uri": "nyt://article/bc1d4599-96e7-51ec-bc24-3bd8d490cbf5",
+            "byline": "By Carl Hulse",
+            "item_type": "Article",
+            "updated_date": "2024-09-28T01:35:46-04:00",
+            "created_date": "2024-09-27T14:43:10-04:00",
+            "published_date": "2024-09-27T14:43:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Presidential Election of 2024",
+                "Courts and the Judiciary"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party",
+                "Senate Committee on the Judiciary",
+                "Senate"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-judges-hgml/27dc-judges-hgml-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Congressional members left Washington this week until after the general election on Nov. 5.",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-judges-hgml/27dc-judges-hgml-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Congressional members left Washington this week until after the general election on Nov. 5.",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-judges-hgml/27dc-judges-hgml-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Congressional members left Washington this week until after the general election on Nov. 5.",
+                    "copyright": "Eric Lee/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "A Photo Booth Downtown Draws a Nostalgic Crowd",
+            "abstract": "The young people who line up at Old Friend Photobooth, on the Lower East Side of Manhattan, may not have been alive for the analog days. But they still miss them.",
+            "url": "https://www.nytimes.com/2024/09/26/style/old-friend-photo-booth-nyc.html",
+            "uri": "nyt://article/04ba0a5d-1863-5553-bdbe-05faf2ac8c26",
+            "byline": "By Sadiba Hasan and Graham Dickie",
+            "item_type": "Article",
+            "updated_date": "2024-09-27T17:46:49-04:00",
+            "created_date": "2024-09-26T05:03:45-04:00",
+            "published_date": "2024-09-26T05:03:45-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Photography",
+                "Cameras"
+            ],
+            "org_facet": [
+                "Old Friend Photobooth (Manhattan, NY, Retailer)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Lower East Side (Manhattan, NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/29/multimedia/25OLDFRIEND-PHOTOBOOTH-03-mtwg/25OLDFRIEND-PHOTOBOOTH-03-mtwg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ms. Lazerson and Mr. Minton went to a photo booth on one of their first dates, spurring a mutual fascination.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/29/multimedia/25OLDFRIEND-PHOTOBOOTH-03-mtwg/25OLDFRIEND-PHOTOBOOTH-03-mtwg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ms. Lazerson and Mr. Minton went to a photo booth on one of their first dates, spurring a mutual fascination.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/29/multimedia/25OLDFRIEND-PHOTOBOOTH-03-mtwg/25OLDFRIEND-PHOTOBOOTH-03-mtwg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ms. Lazerson and Mr. Minton went to a photo booth on one of their first dates, spurring a mutual fascination.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}
